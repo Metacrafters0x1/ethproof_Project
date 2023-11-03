@@ -1,10 +1,10 @@
 ## Introduction to Metacrafters: Ethproof Beginner Course
 
-Welcome to the Tokening Smart Contract repository! This Solidity smart contract, named "Tokening," serves as a foundational example for creating custom tokens on the Ethereum blockchain. This README provides an in-depth overview of the project, detailed code explanations, deployment instructions, and insights into the advantages of using this token contract. The Tokening smart contract is a versatile template designed to facilitate the creation and management of tokens on the Ethereum blockchain. Whether you're exploring token development, building a blockchain application, or simply learning Solidity, this contract provides a solid starting point.
+Welcome to the Tokening Smart Contract repository! This Solidity smart contract, named "firstcontract," serves as a foundational example for creating custom tokens on the Ethereum blockchain. This README provides an in-depth overview of the project, detailed code explanations, deployment instructions, and insights into the advantages of using this token contract. The Tokening smart contract is a versatile template designed to facilitate the creation and management of tokens on the Ethereum blockchain. Whether you're exploring token development, building a blockchain application, or simply learning Solidity, this contract provides a solid starting point.
 
 ## Contract: Written on Solidity 
 
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.19;
 
