@@ -1,6 +1,6 @@
 ## Introduction to Metacrafters: Ethproof Beginner Course
 
-Welcome to the Tokening Smart Contract repository! This Solidity smart contract, named "firstcontract," serves as a foundational example for creating custom tokens on the Ethereum blockchain. This README provides an in-depth overview of the project, detailed code explanations, deployment instructions, and insights into the advantages of using this token contract. The Tokening smart contract is a versatile template designed to facilitate the creation and management of tokens on the Ethereum blockchain. Whether you're exploring token development, building a blockchain application, or simply learning Solidity, this contract provides a solid starting point.
+Welcome to the my firstcontract Smart Contract repository! This Solidity smart contract, named "firstcontract," serves as a foundational example for creating custom tokens on the Ethereum blockchain. This README provides an in-depth overview of the project, detailed code explanations, deployment instructions, and insights into the advantages of using this token contract. The firstcontract smart contract is a versatile template designed to facilitate the creation and management of tokens on the Ethereum blockchain. Whether you're exploring token development, building a blockchain application, or simply learning Solidity, this contract provides a solid starting point.
 
 ## Contract: Written on Solidity 
 
@@ -38,7 +38,7 @@ contract firstcontract {
 }
 ```
 
-Tokening is the name of our Solidity contract. tokenName and tokenSymbol define the name and symbol of the token, respectively. totalSupply keeps track of the total number of tokens, initialized to 0. Now, let's break down each part of the code in more detail:
+firstcontract is the name of our Solidity contract. tokenName and tokenSymbol define the name and symbol of the token, respectively. totalSupply keeps track of the total number of tokens, initialized to 0. Now, let's break down each part of the code in more detail:
 
 ## 1. Solidity Version and License
 ```
@@ -55,7 +55,7 @@ The SPDX-License-Identifier specifies the license for the code (MIT License in t
     uint256 public totalSupply = 0;
 ```
 
-"Tokening" is the name of the Solidity contract. tokenName and tokenSymbol represent the name and symbol of the token, respectively. totalSupply stores the total number of tokens issued, initialized to 0.
+"firstcontract" is the name of the Solidity contract. tokenName and tokenSymbol represent the name and symbol of the token, respectively. totalSupply stores the total number of tokens issued, initialized to 0.
 
 ## 3. Mapping
 
