@@ -16,13 +16,9 @@ contract firstcontract {
 
     mapping(address => uint256) balances;
 
-    constructor(string memory tokenName, string memory tokenSymbol) {
-        name = tokenName;
-        symbol = tokenSymbol;
-    }
-
-    function getbalance(address account) public view returns (uint256) {
-        return balances[account];
+    constructor() {
+        name = "Bitcon";
+        symbol = "BTC";
     }
 
     function mint(address account, uint256 amount) public {
